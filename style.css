@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    position: relative;
+    margin: 1rem;
+    border: 3px solid blue;
+}
+
+img {
+    display: inline;
+}
+
+.text {
+    display: inline;
+    position: absolute;
+    top: 30%;
+    padding: 25px;
+}
+h1 {
+margin-bottom: 10px;
+
+
+}
+p {
+
+
+}
